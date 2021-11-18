@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/home
 ---
 
-# Scripts and Portfolio Documentation
+# Scripts and Portfolio Repository
 {: .no_toc }
 {: .fs-9 }
 
