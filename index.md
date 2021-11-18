@@ -1,20 +1,20 @@
 ---
 layout: default
-title: Home
-nav_order: 1
+title: Home Old
+nav_order: 4
 description: "A repository for my scripts with built-in search."
 permalink: /
 ---
 
-# My Scripts and Code Documentation
+<!-- # My Scripts and Code Documentation
 {: .fs-9 }
 
 A repository for my scripts with built-in search.
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 } -->
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
----
+<!-- ---
 
 ## Table of Contents
 {: .no_toc }
@@ -27,7 +27,7 @@ A repository for my scripts with built-in search.
 1. TOC
 {:toc}
 </details>
----
+--- -->
 
 
 
