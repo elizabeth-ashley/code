@@ -4,7 +4,7 @@ title: Exhibits
 parent: Home
 ---
 
-# Color Utilities
+# Exhibits
 {: .no_toc }
 
 ## Table of contents
