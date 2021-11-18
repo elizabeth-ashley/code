@@ -6,9 +6,11 @@ parent: Home
 
 # Research
 
-<video width="640" height="380" controls>
+<!-- <video width="640" height="380" controls>
   <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4>
-</video>
+</video> -->
+
+[![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4} "Link Title")
 
 ---
 #### Code Snippet
