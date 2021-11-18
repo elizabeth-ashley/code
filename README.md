@@ -3,7 +3,7 @@
 </p> -->
 <br><br>
 <p align="center">
-    <h1 align="center">My Code and Scripts</h1>
+    <h1 align="center">My Scripts and Code</h1>
     <p align="center">A repository for my scripts with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
     <p align="center"><strong><a href="https://elizabeth-ashley.github.io/code/">See it here!</a></strong></p>
     <br><br><br>
