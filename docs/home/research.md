@@ -6,12 +6,12 @@ parent: Home
 
 # Research
 
-<!-- <video width="640" height="380" controls>
-  <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4>
-</video> -->
+<video width="640" height="380" controls>
+  <source type="video/mp4" src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4"></source>
+</video>
 
-![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4})
-
+<!-- ![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4}) -->
+  <!-- <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4> -->
 ---
 #### Code Snippet
 
