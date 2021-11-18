@@ -10,7 +10,7 @@ parent: Home
   <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4>
 </video> -->
 
-![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4} "Link Title")
+![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4})
 
 ---
 #### Code Snippet
