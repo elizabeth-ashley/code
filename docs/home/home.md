@@ -16,13 +16,11 @@ A repository for my scripts with built-in search.
 
 <details open markdown="block">
   <summary>
-        ## Table of contents
+        Table of contents
   </summary>
   {: .no_toc }
   {: .no_toc .text-delta }
 
-  1. TOC
-  {:toc}
 
   ---
 </details>
