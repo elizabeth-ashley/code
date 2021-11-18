@@ -13,15 +13,11 @@ A repository for my scripts with built-in search.
 {: .fs-6 .fw-300 }
 ---
 
-
 <details open markdown="block">
   <summary>
         Table of contents
   </summary>
   {: .no_toc }
   {: .no_toc .text-delta }
-
-
-  ---
 </details>
 ---
