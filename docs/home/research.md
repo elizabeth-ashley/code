@@ -5,13 +5,10 @@ parent: Home
 ---
 
 # Research
-<!-- {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc} -->
+<video width="640" height="380" controls>
+  <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4>
+</video>
 
 ---
 #### Code Snippet
