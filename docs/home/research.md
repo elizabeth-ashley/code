@@ -18,7 +18,7 @@ parent: Home
 
 In MATLAB, I made a 3D diagram of the earthquakes in my research field site. I used a clustering algorithm in MATLAB to index the different fault lineations.:
 
-```mat
+``` mat
 
 %% Setup the Import Options and import the data
 opts = delimitedTextImportOptions("NumVariables", 15);
@@ -143,7 +143,6 @@ daspect([1,1,.3]);axis tight;
 OptionZ.FrameRate=15;OptionZ.Duration=8;OptionZ.Periodic=false;
 CaptureFigVid([0,90;0,90;-20,80;-40,60;-80,40;-100,20;-120,10;-140,10;-160,10;-180,10;...
     -200,10;-220,10;-240,10;-260,10;-280,10;-300,10;-320,10;-340,10;-360,10],'Results(1)_test',OptionZ)
-
 ```
 ---
 <!-- ## Spacing
