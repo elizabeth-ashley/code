@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Markdown kitchen sink
 nav_order: 99
@@ -168,7 +168,7 @@ Term2
 
 : Second description of Term1 and Term2,
   possibly more than one line
-  
+
 ### More code
 
 ```
@@ -177,4 +177,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->

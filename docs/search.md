@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Search
 nav_order: 7
@@ -76,7 +76,7 @@ To allow search for hyphenated words:
 search.tokenizer_separator: /[\s/]+/
 ```
 
-### Display URL in search results 
+### Display URL in search results
 
 ```yaml
 # Display the relative url in search results
@@ -124,4 +124,4 @@ $ bundle exec just-the-docs rake search:init
 ```
 
 This command creates the `assets/js/zzzz-search-data.json` file that Jekyll uses to create your search index.
-Alternatively, you can create the file manually with [this content]({{ site.github.repository_url }}/blob/master/assets/js/zzzz-search-data.json).
+Alternatively, you can create the file manually with [this content]({{ site.github.repository_url }}/blob/master/assets/js/zzzz-search-data.json). -->
