@@ -8,10 +8,9 @@ permalink: docs/home
 
 # Scripts and Portfolio Documentation
 {: .fs-9 }
+{: .no_toc }
 
 A repository for my scripts and other creations with built-in search.
 {: .fs-6 .fw-300 }
-
-{: .no_toc }
 
 ---
