@@ -18,7 +18,7 @@ parent: Home
 
 In MATLAB, I made a 3D diagram of the earthquakes in my research field site. I used a clustering algorithm in MATLAB to index the different fault lineations.:
 
-``` mat
+```js
 
 %% Setup the Import Options and import the data
 opts = delimitedTextImportOptions("NumVariables", 15);
