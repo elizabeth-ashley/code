@@ -6,12 +6,12 @@ has_children: true
 permalink: docs/home
 ---
 
-# Scripts and Code Documentation
+# Scripts and Portfolio Documentation
 {: .fs-9 }
 
-A repository for my scripts with built-in search.
+A repository for my scripts and other creations with built-in search.
 {: .fs-6 .fw-300 }
 ---
-  {: .no_toc .text-delta }
+{: .no_toc .text-delta }
 
 ---
