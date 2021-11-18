@@ -22,7 +22,7 @@ A repository for my scripts with built-in search.
   <summary>
     Table of contents
   </summary>
-  {: .text-delta }
+  <!-- {: .text-delta } -->
 <!-- 1. TOC -->
   {:toc}
 </details>
