@@ -6,7 +6,7 @@ has_children: true
 permalink: docs/home
 ---
 
-# My Scripts and Code Documentation
+# Scripts and Code Documentation
 {: .fs-9 }
 
 A repository for my scripts with built-in search.
