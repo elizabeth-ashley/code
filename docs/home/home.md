@@ -14,7 +14,7 @@ A repository for my scripts with built-in search.
 
 
 ---
-<!-- 
+<!--
 ## Table of Contents
 {: .no_toc } -->
 
@@ -23,7 +23,7 @@ A repository for my scripts with built-in search.
     Table of contents
   </summary>
   {: .text-delta }
-1. TOC
-{:toc}
+<!-- 1. TOC -->
+  {:toc}
 </details>
 ---
