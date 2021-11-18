@@ -12,9 +12,7 @@ permalink: docs/home
 A repository for my scripts with built-in search.
 {: .fs-6 .fw-300 }
 ---
-
-<details open markdown="block">
   {: .no_toc }
   {: .no_toc .text-delta }
-</details>
+
 ---
