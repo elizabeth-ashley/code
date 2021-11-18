@@ -20,7 +20,7 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 ## Lights Out
 
 <!-- ![image info](img/image.png) -->
-<img src="{{site.baseurl}}/img/exhibit_Page_1.png" alt="alt text" width="200"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_1.png"/>
 
 ## Finding Denali
 
