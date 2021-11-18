@@ -5,6 +5,8 @@ parent: Home
 ---
 
 # Exhibits
+Murie Science & Learning Center exhibits showcasing various topics such as the Aurora Borealis, Mount Denali, etc.
+
 {: .no_toc }
 
 ## Table of contents
@@ -14,8 +16,6 @@ parent: Home
 {:toc}
 
 ---
-
-Murie Science & Learning Center exhibits showcasing various topics such as the Aurora Borealis, Mount Denali, etc.
 
 ## Lights Out
 
