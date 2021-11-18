@@ -5,21 +5,20 @@ parent: Home
 ---
 
 # Research
-{: .no_toc }
+<!-- {: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc} -->
 
 ---
 #### Code Snippet
-{: .no_toc }
 
 In MATLAB, I made a 3D diagram of the earthquakes in my research field site. I used a clustering algorithm in MATLAB to index the different fault lineations.:
 
-```MATLAB
+```Matlab
 
 %% Setup the Import Options and import the data
 opts = delimitedTextImportOptions("NumVariables", 15);
