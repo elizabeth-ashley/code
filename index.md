@@ -17,11 +17,16 @@ A repository for my scripts with built-in search.
 ---
 
 ## Table of Contents
-{: .no_toc .text-delta }
+{: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
 1. TOC
 {:toc}
-
+</details>
 ---
 
 <!-- ### Dependencies
