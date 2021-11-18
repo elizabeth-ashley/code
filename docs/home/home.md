@@ -20,10 +20,7 @@ A repository for my scripts with built-in search.
 
 <details open markdown="block">
   <summary>
-    Table of contents
+      {:toc}
   </summary>
-  <!-- {: .text-delta } -->
-<!-- 1. TOC -->
-  {:toc}
 </details>
 ---
