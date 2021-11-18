@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Configuration
 nav_order: 2
@@ -195,4 +195,4 @@ just_the_docs:
     tutorials:
       name: Tutorials
 ```
-
+ -->
