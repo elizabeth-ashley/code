@@ -15,9 +15,7 @@ The processes that control erosion cause geomorphological events that describe e
 
 ---
 ## Uplift
-This function calculates height variations where uf is a parameter that will be varied under default parameters.
-
-
+This function calculates height variations where uf is a parameter that I edited under default parameters.
 
 ---
 #### Code Snippet
@@ -54,10 +52,6 @@ function dz = SIGNUM_uplift(uf,dt,buplift)
 %     but WITHOUT ANY WARRANTY; without even the implied warranty of
 %     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 %     GNU General Public License for more details.
-%
-% Changes:
-%   03/01/2012: changed to handle scalar parameters more quickly
-%   05/01/2012: changed default buplift parameter
 
 global points;
 
