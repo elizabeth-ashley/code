@@ -5,8 +5,8 @@ parent: Home
 ---
 
 # Exhibits
-Murie Science & Learning Center exhibits showcasing various topics such as the Aurora Borealis, Mount Denali, etc.
 {: .no_toc }
+Murie Science & Learning Center exhibits showcasing various topics such as the Aurora Borealis, Mount Denali, etc.
 
 ## Table of contents
 {: .no_toc .text-delta }
