@@ -12,6 +12,6 @@ permalink: docs/home
 A repository for my scripts and other creations with built-in search.
 {: .fs-6 .fw-300 }
 
-{: .no_toc .text-delta }
+{: .no_toc }
 
 ---
