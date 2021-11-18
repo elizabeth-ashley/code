@@ -10,12 +10,10 @@ parent: Home
   <source type="video/mp4" src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4"></source>
 </video>
 
-<!-- ![Alternate Text]({image-url})]({{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4}) -->
-  <!-- <source src="{{site.baseurl}}/img/video/3D_viz_RatonBasinEQs_EAM.mp4" type=video/mp4> -->
 ---
 #### Code Snippet
 
-In MATLAB, I made a 3D diagram of the earthquakes in my research field site. I used a clustering algorithm in MATLAB to index the different fault lineations.:
+In MATLAB, I made a 3D diagram of the earthquakes in my research field site. For my method in grouping earthquakes spatially together, I used a clustering algorithm in MATLAB to index the different fault lineations. My code is shown here:
 
 ```py
 
