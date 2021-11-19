@@ -15,7 +15,7 @@ parent: Home
 The processes that control erosion cause geomorphological events that describe earth’s surface. This includes aspects of geology that explain the development of landforms and how those landforms are pieced together to form vast landscapes. By modeling the erosion process a better prediction of future geologic reconstruction can be developed to provide a clear understanding of Earth’s geomorphology. Main formulations of erosion in this study include stream channeling through bedrock, uplift and linear diffusion. Here I only show the uplift model.
 
 ---
-## Uplift
+## Uplift Model
 This function calculates height variations where $`u_{f}`$ is a parameter that I edited under default parameters.
 
 <!-- ```{math}
