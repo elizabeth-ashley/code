@@ -17,7 +17,7 @@ Where science & art collide!
 ---
 
 ## Great Springs Project
-A T-shirt design the Great Springs Project. I took a map from ArcGIS of highly populated cities located within the extent of the Edwards Aquifer and vectorized the map layout then imported it into Adobe Illustrator.
+A T-shirt design the Great Springs Project. I took a map from ArcGIS of highly populated cities located within the extent of the Edwards Aquifer and vectorized the map layout then imported it into Illustrator.
 
 <img src="{{site.baseurl}}/img/GSP.png"/>
 
