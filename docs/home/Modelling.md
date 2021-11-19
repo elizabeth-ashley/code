@@ -18,7 +18,7 @@ The processes that control erosion cause geomorphological events that describe e
 ## Uplift
 This function calculates height variations where $`u_{f}`$ is a parameter that I edited under default parameters.
 
-``` math
+```latex
 \frac{\partial z}{\partial t} = u_{f}
 ```
 
