@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modelling
+title: modelling
 parent: Home
 ---
 
