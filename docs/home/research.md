@@ -34,7 +34,7 @@ opts.EmptyLineRule = "read";
 
 
 % Import the data
-D = readtable("G:\Other computers\My Surfacebook 2 Laptop\Downloads\InverseTheory\raton_nakai_eqs.csv", opts);
+D = readtable("...\raton_nakai_eqs.csv", opts);
 
 % Clear temporary variables
 clear opts
