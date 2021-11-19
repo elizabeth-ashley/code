@@ -32,6 +32,9 @@ $
 \end{align}
 </div>
 
+
+This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$
+
 ---
 #### Code Snippet
 
