@@ -15,6 +15,10 @@ Where science & art collide!
 {:toc}
 
 ---
+## Technical Research Poster
+Presented this poster to share my research findings at the American Geophysical Union (AGU) 2021 conference. I utilized Adobe InDesign to create the poster and python to create the figures.
+
+<img src="{{site.baseurl}}/img/AGU 2021 MENEZES POSTER_FINAL.jpg"/>
 
 ## Great Springs Project
 A T-shirt design the Great Springs Project. I took a map from ArcGIS of highly populated cities located within the extent of the Edwards Aquifer and vectorized the map layout then imported it into Illustrator.
