@@ -14,7 +14,7 @@ In python, I made these density maps to easily show the locations of the highest
 
 #### Data for 29 injection wells:
 
-[Colorado Oil and Gas Conservation Commission (COGCC)](https://cogcc.state.co.us/data.html#/cogis)
+[Colorado Oil and Gas Conservation Commission (COGCC)](https://cogcc.state.co.us/data.html#/cogis) [Retrieved 2020]:
 Facility > County code: 071 > Sequence Code: “second # in API#” > Submit > Well > click Name > Export production to Excel > water in bbl/mo
 
 [New Mexico Oil Conservation Division (OCD)(NMOCD)](https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/data/Wells.aspx) [Retrieved 2020]:
