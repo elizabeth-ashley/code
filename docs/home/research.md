@@ -194,8 +194,7 @@ new_im.save('wellDensityImagesCum/Wellfigs.jpg')
 
 ```
 References:
-- https://plotly.com/python/mapbox-density-heatmaps/#reference
-- https://plotly.com/python/scattermapbox/
+- [Mapbox Density Heatmap in Python](https://plotly.com/python/scattermapbox/)
 
 ## 3D Inversion Fault Model
 <video width="640" height="380" controls>
