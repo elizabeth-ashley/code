@@ -8,6 +8,10 @@ parent: Home
 ## Wastewater Injection Well Density Maps
 In python, I made these density maps to easily show the locations of the highest injection volumes in the Raton Basin.
 
+---
+<img src="{{site.baseurl}}/img/Wellfigs.jpg"/>
+---
+
 #### Data for 29 injection wells:
 
 [Colorado Oil and Gas Conservation Commission (COGCC)](https://cogcc.state.co.us/data.html#/cogis)
@@ -16,8 +20,6 @@ Facility > County code: 071 > Sequence Code: “second # in API#” > Submit > W
 [New Mexico Oil Conservation Division (OCD)(NMOCD)](https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/data/Wells.aspx) [Retrieved 2020]:
 Enter API Number: 07 - “second # in API#”  > Continue > scroll to bottom > Export to Excel
 
----
-<img src="{{site.baseurl}}/img/Wellfigs.jpg"/>
 ---
 #### Code Snippet
 My code is shown here:
