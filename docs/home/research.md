@@ -5,6 +5,16 @@ parent: Home
 ---
 
 # Research
+{: .no_toc }
+My research results and code snippets.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 ## Wastewater Injection Well Density Maps
 In python, I made these density maps to easily show the locations of the highest injection volumes in the Raton Basin.
 
