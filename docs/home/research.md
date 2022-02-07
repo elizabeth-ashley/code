@@ -15,6 +15,7 @@ Facility > County code: 071 > Sequence Code: “second # in API#” > Submit > W
 
 [New Mexico Oil Conservation Division (OCD)(NMOCD)](https://wwwapps.emnrd.nm.gov/ocd/ocdpermitting/data/Wells.aspx) [Retrieved 2020]:
 Enter API Number: 07 - “second # in API#”  > Continue > scroll to bottom > Export to Excel
+
 ---
 <img src="{{site.baseurl}}/img/Wellfigs.jpg"/>
 ---
