@@ -16,7 +16,7 @@ My research results and code snippets.
 
 ---
 ## Wastewater Injection Well Density Maps
-In python, I made these density maps to easily show the locations of the highest injection volumes in the Raton Basin.
+In python, I made these cummulative density maps to easily show the locations of the highest injection volumes in the Raton Basin.
 
 ---
 <img src="{{site.baseurl}}/img/Wellfigs.jpg"/>
