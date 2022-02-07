@@ -22,7 +22,8 @@ In python, I made these cummulative density maps to easily show the locations of
 <img src="{{site.baseurl}}/img/Wellfigs.jpg"/>
 ---
 
-#### Data for 29 injection wells:
+#### Data for 29 Injection Wells
+Retrived data from the following sources for wastewater injection wells located in the Raton basin and concatenated the data in to a table called 'CatInjection.csv'.
 
 [Colorado Oil and Gas Conservation Commission (COGCC)](https://cogcc.state.co.us/data.html#/cogis) [Retrieved 2020]:
 Facility > County code: 071 > Sequence Code: “second # in API#” > Submit > Well > click Name > Export production to Excel > water in bbl/mo
