@@ -38,6 +38,17 @@ My code is shown here:
 ```py
 ## Cumulative Injection Volume Density Map
 
+# Import libraries
+import geopandas as gpd
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import plotly.subplots as sp
+import os
+import numpy as np
+import PIL
+from PIL import Image
+
 # Plot density map 1
 df = pd.read_csv('CatInjection.csv', header= 0,
                         encoding= 'unicode_escape')
