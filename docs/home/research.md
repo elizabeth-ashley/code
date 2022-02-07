@@ -213,6 +213,11 @@ References:
 </video>
 
 ---
+
+#### Data for Earthquake Catalog
+Retrieved from the supplementary material in [Nakai et al. 2017](https://doi.org/10.1002/2017JB014415).
+
+---
 #### Code Snippet
 
 In MATLAB, I made a 3D diagram of the earthquakes in my research field site. For my method in grouping earthquakes spatially together, I used a clustering algorithm in MATLAB to index the different fault lineations. My code is shown here:
