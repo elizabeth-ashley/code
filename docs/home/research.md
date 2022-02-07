@@ -25,9 +25,7 @@ Enter API Number: 07 - “second # in API#”  > Continue > scroll to bottom > E
 My code is shown here:
 
 ```py
-
 ## Cumulative Injection Volume Density Map
-
 
 # Plot density map 1
 df = pd.read_csv('CatInjection.csv', header= 0,
