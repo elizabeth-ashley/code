@@ -41,7 +41,7 @@ Illustrations created in Adobe Illustrator and Procreate.
 Edited figure for fellow researcher Jenny Nakai's technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ([Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
 
 BEFORE FIGRUE
-<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-before.jpg"/>
+<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-before.png"/>
 
 AFTER FIGURE
 <img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-after.jpg"/>
