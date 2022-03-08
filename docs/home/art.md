@@ -22,10 +22,10 @@ My art creations!
 <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
 ## Drawings
-#### Logos
+### Logos
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
 <img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
-#### Random
+### Random
 <img src="{{site.baseurl}}/img/coffee.jpg"/>
 <img src="{{site.baseurl}}/img/BLM.jpg"/>
 
