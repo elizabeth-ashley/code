@@ -37,9 +37,9 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 
 <img src="{{site.baseurl}}/img/exhibit_Page_5.png"/>
 
-## Science of Moose
+<!-- ## Science of Moose
 
-<img src="{{site.baseurl}}/img/exhibit_Page_7.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_7.png"/> -->
 
 ## Science of Grizzly Bears
 
