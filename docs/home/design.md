@@ -15,6 +15,7 @@ Where science & art collide!
 {:toc}
 
 ---
+
 ## Logo Designs
 Deisgn swatch for the University fo Colorado, Boulder Geological Sciences Department.
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
