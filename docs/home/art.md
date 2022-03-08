@@ -26,7 +26,10 @@ My art creations!
 
 ## Illustrations
 Illustrations created in Adobe Illustrator and Procreate.
+
+### Retro Grad
 <img src="{{site.baseurl}}/img/coffee.jpg"/>
+### Black Lives Matter (BLM)
 <img src="{{site.baseurl}}/img/BLM.jpg"/>
 
 ## Scientific Figures
