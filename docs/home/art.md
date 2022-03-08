@@ -32,3 +32,11 @@ My art creations!
 ## Scientific Figures
 <img src="{{site.baseurl}}/img/GR_plot.jpg"/>
 <img src="{{site.baseurl}}/img/TM_metric.jpg"/>
+
+Edited figure for technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ()[Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
+
+BEFORE FIGRUE
+<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-before.jpg"/>
+
+AFTER FIGURE
+<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-after.jpg"/>
