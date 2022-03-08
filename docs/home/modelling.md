@@ -106,8 +106,8 @@ end
 ```
 # Glacier Numerical Modeling
 Valley glaciers are powerful geomorphic agents.  The thickness of ice in a valley glacier reflects a balance between snow accumulation, melt/sublimation, and the gradient in ice flow.  
-
 <img src="{{site.baseurl}}/img/gif/glacier_movie_EAM.gif"/>
+
 ---
 #### Code Snippet
 
