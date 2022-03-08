@@ -27,14 +27,17 @@ Illustrations created in Adobe Illustrator and Procreate.
 ### Logos
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
 <img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
-### Random
+### Misc
 <img src="{{site.baseurl}}/img/coffee.jpg"/>
 <img src="{{site.baseurl}}/img/BLM.jpg"/>
 
 ## Scientific Figures
-<img src="{{site.baseurl}}/img/GR_plot.jpg"/>
-<img src="{{site.baseurl}}/img/TM_metric.jpg"/>
 
+### Figure 1
+<img src="{{site.baseurl}}/img/GR_plot.jpg"/>
+### Figure 2
+<img src="{{site.baseurl}}/img/TM_metric.jpg"/>
+### Figure 3
 Edited figure for fellow researcher Jenny Nakai's technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ([Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
 
 BEFORE FIGRUE
