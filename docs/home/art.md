@@ -40,7 +40,8 @@ Sentinel Satellite retrieval orbit path for my research.
 <!-- Gutenberg Richter Distribution Plot
 <img src="{{site.baseurl}}/img/GR_plot.jpg"/> -->
 ### Figure 2
-Thirumalai-Mountain (TM) plot for my research.
+Inverse Thirumalai-Mountain (TM)  metric for the Nakai (2008-2010) catalog for the Raton Basin seismic events Mw≥1, boxsize equal to 0.1°,
+calculated for every 10 days, thearrows (left to right) locate the occurrence of events Mw4.3 & 4.2, Mw3.0 and Mw4.3.
 <img src="{{site.baseurl}}/img/TM_metric.jpg"/>
 ### Figure 3
 Edited figure for fellow researcher Jenny Nakai's technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ([Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
