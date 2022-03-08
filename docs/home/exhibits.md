@@ -15,6 +15,7 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 {:toc}
 
 ---
+<img src="{{site.baseurl}}/img/exhibits.JPG"/>
 
 ## Lights Out
 
