@@ -30,4 +30,5 @@ My art creations!
 <img src="{{site.baseurl}}/img/BLM.jpg"/>
 
 ## Scientific Figures
-<img src="{{site.baseurl}}/img/ICS_poster.png"/>
+<img src="{{site.baseurl}}/img/GR_plot.jpg"/>
+<img src="{{site.baseurl}}/img/TM_metric.jpg"/>
