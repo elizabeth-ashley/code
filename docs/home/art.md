@@ -22,6 +22,8 @@ My art creations!
 <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
 ## Drawings
+Illustrations created in Adobe Illustrator and Procreate.
+
 ### Logos
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
 <img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
