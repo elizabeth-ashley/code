@@ -19,6 +19,7 @@ My art creations!
  I have been hand drawing maps since I was 14 years old. In the old days I used pencil and paper nowadays I use Procreate and Adobe Illustrator.
 ### Geology of Southern Norway
 <img src="{{site.baseurl}}/img/Geology of Southern Norway.jpg"/>
+
 ### Scotland Whisky Regions
 <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
