@@ -34,10 +34,13 @@ Illustrations created in Adobe Illustrator and Procreate.
 ## Scientific Figures
 
 ### Figure 1
-Gutenberg Richter Distribution Plot
-<img src="{{site.baseurl}}/img/GR_plot.jpg"/>
-### Figure 2
+Sentinel Satellite retrieval orbit path for my research.
+<img src="{{site.baseurl}}/img/sentinel_sat.png"/>
 
+<!-- Gutenberg Richter Distribution Plot
+<img src="{{site.baseurl}}/img/GR_plot.jpg"/> -->
+### Figure 2
+Thirumalai-Mountain (TM) plot for my research.
 <img src="{{site.baseurl}}/img/TM_metric.jpg"/>
 ### Figure 3
 Edited figure for fellow researcher Jenny Nakai's technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ([Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
