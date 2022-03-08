@@ -48,14 +48,14 @@ calculated for every 10 days, thearrows (left to right) locate the occurrence of
 ### Figure 3
 Edited figure for fellow researcher Jenny Nakai's technical research paper "Near Trench 3D Seismic Attenuation Offshore Northern Hikurangi Subduction Margin, North Island, New Zealand" ([Nakai et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020810)).
 
-**BEFORE FIGURE**
-
+<p>**BEFORE FIGURE**<br>
 <img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-before.png"/>
+</p>
 
-**AFTER FIGURE**
-
+<p>
+**AFTER FIGURE**<br>
 <img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-after.png"/>
-
+</p>
 ### Figure 4
 Edited figure for fellow researcher Jefferson Yarce's technical research paper "Seismic Velocity Heterogeneity of the Hikurangi Subduction Margin, New Zealand: Elevated Pore Pressures in a Region With Repeating Slow Slip Events" ([Yarce et al., 2021](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB021605)).
 <img src="{{site.baseurl}}/img/Yarcefig.png"/>
