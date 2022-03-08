@@ -21,6 +21,10 @@ Presented this poster to share my research findings at the American Geophysical 
 <img src="{{site.baseurl}}/img/AGU 2021 MENEZES POSTER_FINAL.jpg"/>
 <img src="{{site.baseurl}}/img/MENEZES - CIRES Poster 2021 AND Supp.png"/>
 
+### Logos
+Deisgn swatch for the University fo Colorado, Boulder Geological Sciences Department. 
+<img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
+<img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
 
 ## Great Springs Project
 A T-shirt design for the [Great Springs Project](https://greatspringsproject.org). This project focused on 4 highly populated cities. Each city has a major spring located in it, and the mission of the project is to ‘connect and protect’ the springs. Basically, connect with a trail and protect with land conservation. I took a map from ArcGIS of the 4 cities located within the extent of the Edwards Aquifer and vectorized the map layout then imported it into Illustrator.
