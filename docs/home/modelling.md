@@ -3,7 +3,13 @@ layout: default
 title: Modelling
 parent: Home
 ---
+## Table of contents
+{: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
+---
 # Simple Integrated Geomorphological Numerical Model Simulations
 
 <!-- <video width="640" height="380" controls>
@@ -97,4 +103,16 @@ else
             end
     end
 end
+```
+# Glacier Numerical Modeling
+Valley glaciers are powerful geomorphic agents.  The thickness of ice in a valley glacier reflects a balance between snow accumulation, melt/sublimation, and the gradient in ice flow.  
+---
+#### Code Snippet
+
+My python model simulates the growth of a valley glacier in 1D using a prescribed mass balance and a flow law for ice, as discussed in class.  The glacier will form on an initial fluvial valley profile in response to a specified equilibrium-line altitude (ELA) and an elevational gradient in net mass balance. A code snippet of the model is shown here:
+
+
+```py
+
+
 ```
