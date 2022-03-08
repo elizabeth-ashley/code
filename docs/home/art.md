@@ -24,7 +24,7 @@ My art creations!
 ### Geology of Southern Norway
 <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
-## Drawings
+## Illustrations
 Illustrations created in Adobe Illustrator and Procreate.
 
 ### Logos
