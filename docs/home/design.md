@@ -15,14 +15,8 @@ Where science & art collide!
 {:toc}
 
 ---
-## Technical Research Poster
-Presented this poster to share my research findings at the American Geophysical Union (AGU) 2021 conference. I utilized Adobe InDesign to create the poster and python to create the figures.
-
-<img src="{{site.baseurl}}/img/AGU 2021 MENEZES POSTER_FINAL.jpg"/>
-<img src="{{site.baseurl}}/img/MENEZES - CIRES Poster 2021 AND Supp.png"/>
-
-### Logos
-Deisgn swatch for the University fo Colorado, Boulder Geological Sciences Department. 
+## Logo Designs
+Deisgn swatch for the University fo Colorado, Boulder Geological Sciences Department.
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
 <img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
 

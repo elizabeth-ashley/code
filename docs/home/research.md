@@ -15,6 +15,12 @@ My research results and code snippets.
 {:toc}
 
 ---
+## Technical Research Poster
+Presented this poster to share my research findings at the American Geophysical Union (AGU) 2021 conference. I utilized Adobe InDesign to create the poster and python to create the figures.
+
+<img src="{{site.baseurl}}/img/AGU 2021 MENEZES POSTER_FINAL.jpg"/>
+<img src="{{site.baseurl}}/img/MENEZES - CIRES Poster 2021 AND Supp.png"/>
+
 ## Wastewater Injection Well Density Maps
 In python, I made these cumulative density maps to easily show the locations of the highest injection volumes in the Raton Basin.
 

@@ -36,10 +36,6 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 
 <img src="{{site.baseurl}}/img/exhibit_Page_5.png"/>
 
-## Winter Activities
-
-<img src="{{site.baseurl}}/img/exhibit_Page_6.png"/>
-
 ## Science of Moose
 
 <img src="{{site.baseurl}}/img/exhibit_Page_7.png"/>
@@ -47,3 +43,7 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 ## Science of Grizzly Bears
 
 <img src="{{site.baseurl}}/img/exhibit_Page_8.png"/>
+
+## Winter Activities
+
+<img src="{{site.baseurl}}/img/exhibit_Page_6.png"/>
