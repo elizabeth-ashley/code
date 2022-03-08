@@ -50,4 +50,4 @@ BEFORE FIGRUE
 <img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-before.png"/>
 
 AFTER FIGURE
-<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-after.jpg"/>
+<img src="{{site.baseurl}}/img/jgrb54741-fig-0007-m-after.png"/>
