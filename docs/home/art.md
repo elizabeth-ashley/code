@@ -17,8 +17,9 @@ My art creations!
 ---
 ## Hand Drawn Maps
  I have been hand drawing maps since I was 14 years old. In the old days I used pencil and paper nowadays I use Procreate and Adobe Illustrator.
-
+### Geology of Southern Norway
 <img src="{{site.baseurl}}/img/Geology of Southern Norway.jpg"/>
+### Scotland Whisky Regions
 <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
 ## Drawings
@@ -36,7 +37,6 @@ Illustrations created in Adobe Illustrator and Procreate.
 ### Figure 1
 Sentinel Satellite retrieval orbit path for my research.
 <img src="{{site.baseurl}}/img/sentinel_sat.png"/>
-
 <!-- Gutenberg Richter Distribution Plot
 <img src="{{site.baseurl}}/img/GR_plot.jpg"/> -->
 ### Figure 2
