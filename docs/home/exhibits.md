@@ -18,32 +18,32 @@ Murie Science & Learning Center exhibits showcasing various topics such as the A
 
 ## Lights Out
 
-<img src="{{site.baseurl}}/img/exhibit_Page_1.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_1 (Medium).png"/>
 
 ## Finding Denali
 
-<img src="{{site.baseurl}}/img/exhibit_Page_2.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_2 (Medium).png"/>
 
 ## On the Right Track
 
-<img src="{{site.baseurl}}/img/exhibit_Page_3.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_3 (Medium).png"/>
 
 ## Weather Report
 
-<img src="{{site.baseurl}}/img/exhibit_Page_4.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_4 (Medium).png"/>
 
 ## Science of Sled Dogs
 
-<img src="{{site.baseurl}}/img/exhibit_Page_5.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_5 (Medium).png"/>
 
 ## Winter Activities
 
-<img src="{{site.baseurl}}/img/exhibit_Page_6.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_6 (Medium).png"/>
 
 ## Science of Moose
 
-<img src="{{site.baseurl}}/img/exhibit_Page_7.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_7 (Medium).png"/>
 
 ## Science of Grizzly Bears
 
-<img src="{{site.baseurl}}/img/exhibit_Page_8.png"/>
+<img src="{{site.baseurl}}/img/exhibit_Page_8 (Medium).png"/>
