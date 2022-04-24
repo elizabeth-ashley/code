@@ -17,7 +17,7 @@ My art creations!
 ---
 
 ## Hand Drawn Maps
- I have been hand [drawing maps since I was 14 years old](https://elizabeth-ashley.github.io/code/docs/home/maps/). In the old days I used pencil and paper nowadays I use Procreate and Adobe Illustrator.
+ I have been hand [drawing maps since I was 14 years old](https://elizabeth-ashley.github.io/code/docs/home/cartography/). In the old days I used pencil and paper nowadays I use Procreate and Adobe Illustrator.
 
 ### Scotland Whisky Regions
 <img src="{{site.baseurl}}/img/Geology of Southern Norway.jpg"/>
