@@ -24,9 +24,11 @@ My art creations!
 ### Geography of Europe
 <img src="{{site.baseurl}}/img/europe_eam.jpg"/>
 
-
 ### Geography of Latin America
 <img src="{{site.baseurl}}/img/lamerica.jpg"/>
 
 ### Geography of North America
 <img src="{{site.baseurl}}/img/namerica_eam.jpg"/>
+
+### Geography of Africa
+<img src="{{site.baseurl}}/img/africa1_eam.jpg"/>
