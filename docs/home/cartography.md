@@ -35,4 +35,5 @@ Using ArcGIS Pro 2.9, I used the felt style to make this map of Austin for my fa
 <img src="{{site.baseurl}}/img/namerica_eam.jpg"/>
 
 ### Geography of Africa
-<img src="{{site.baseurl}}/img/africa1_eam.jpg"/>
+<img src="{{site.baseurl}}/img/aftrica1_eam-ANIMATION.gif"/>
+<!-- <img src="animation.gif" alt="funny animation GIF">  -->
