@@ -6,7 +6,7 @@ parent: Home
 
 # Cartography
 {: .no_toc }
-My art creations!
+My geographical creations!
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -15,8 +15,12 @@ My art creations!
 {:toc}
 
 ---
+## Map of Austin, TX
+Using ArcGIS Pro 2.9, I used the felt style to make this map of Austin for my fabric loving friend Lacey.
+<img src="{{site.baseurl}}/img/LaceyMap_eam.png"/>
+
 ## Hand Drawn Maps
- I have been hand drawing maps since I was 14 years old.
+ I have been hand drawing maps since I was 14 years old. Here are some of the maps I drew of continents around the world in 2010!
 
 ### Geography of Asia
 <img src="{{site.baseurl}}/img/asia_eam.jpg"/>
