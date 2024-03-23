@@ -19,11 +19,11 @@ My art creations!
 ## Artistic Maps
  I have been hand [drawing maps since I was 14 years old](https://elizabeth-ashley.github.io/code/docs/home/cartography/). In the old days I used pencil and paper nowadays I use Procreate and Adobe Illustrator.
 
+ ### Geology of Southern Norway
+ <img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
+
 ### Scotland Whisky Regions
 <img src="{{site.baseurl}}/img/Geology of Southern Norway.jpg"/>
-
-### Geology of Southern Norway
-<img src="{{site.baseurl}}/img/ScotlandMap.jpg"/>
 
 ## Illustrations
 Illustrations created in Adobe Illustrator and Procreate.
