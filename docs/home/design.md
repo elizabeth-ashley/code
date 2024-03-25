@@ -16,7 +16,7 @@ Where science & art collide!
 
 ---
 ## The Science of Geodesy Trifold
-An info pamphlet for the [EarthScope Consortium](https://www.earthscope.org/). 
+An info pamphlet for the [EarthScope Consortium](https://www.earthscope.org/) about the science of Geodesy. 
 <img src="{{site.baseurl}}/img/trifold_A_eam.png"/>
 <img src="{{site.baseurl}}/img/trifold_B_eam.png"/>
 
