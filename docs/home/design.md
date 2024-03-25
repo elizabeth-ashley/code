@@ -15,9 +15,13 @@ Where science & art collide!
 {:toc}
 
 ---
+## The Science of Geodesy Trifold
+An info pamphlet for the [EarthScope Consortium](https://www.earthscope.org/). 
+<img src="{{site.baseurl}}/img/trifold_A_eam.png"/>
+<img src="{{site.baseurl}}/img/trifold_B_eam.png"/>
 
 ## Logo Designs
-Design swatch for the University of Colorado, Boulder Geological Sciences Department. 
+Design swatch for the University of Colorado, Boulder Geological Sciences Department.
 <img src="{{site.baseurl}}/img/cugeologo1.jpg"/>
 <img src="{{site.baseurl}}/img/cugeologo2.jpg"/>
 
