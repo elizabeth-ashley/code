@@ -1,0 +1,52 @@
+// v2026 — matches elizabeth-ashley.github.io so the portfolio and the main site
+// read as one property. Colours come from the resume palette; type is Asap for
+// headings over Hanken Grotesk for body, the open-licensed stand-ins for the
+// Frutiger/Avenir pairing used in the PDF resume.
+//
+// Enabled by `color_scheme: v2026` in _config.yml.
+//
+// Assignments here are deliberately plain, with no !default. The stylesheet
+// imports ./support/support before this file, and support already assigns every
+// variable with !default — so a !default here would silently lose and the
+// scheme would render as stock light. The theme's own dark.scss does the same.
+
+// Brand ---------------------------------------------------------------------
+$brand-ink: #050505;
+$brand-body: #2b2b2b;
+$brand-muted: #6a737d;
+$brand-rule: #dde3ea;
+$brand-surface: #f7f9fb;
+
+$brand-primary: #0079c1;
+$brand-primary-deep: #005e95;
+$brand-teal: #1fb8c2;
+$brand-accent: #4f2aae;
+
+// Type ----------------------------------------------------------------------
+$body-font-family: 'Hanken Grotesk', 'Avenir Next LT Pro', system-ui,
+  -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$mono-font-family: 'Inconsolata', 'SFMono-Regular', Menlo, Consolas, monospace;
+
+// Surfaces ------------------------------------------------------------------
+$body-background-color: #ffffff;
+$sidebar-color: $brand-surface;
+$search-background-color: #ffffff;
+$table-background-color: #ffffff;
+$code-background-color: $brand-surface;
+$feedback-color: darken($sidebar-color, 3%);
+
+// Text ----------------------------------------------------------------------
+$body-text-color: $brand-body;
+$body-heading-color: $brand-ink;
+$search-result-preview-color: $brand-muted;
+$nav-child-link-color: $brand-body;
+
+// Interactive ---------------------------------------------------------------
+// just-the-docs uses $link-color for nav and inline links alike. The base blue
+// clears 4.6:1 on white, so it is safe at body size; the teal is not and is
+// kept for rules and accents only.
+$link-color: $brand-primary;
+$btn-primary-color: $brand-primary;
+$base-button-color: #ffffff;
+
+$border-color: $brand-rule;

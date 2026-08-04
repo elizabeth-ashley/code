@@ -1,0 +1,61 @@
+<!--
+  v2026 brand layer for the portfolio.
+
+  just-the-docs renders this inside <head> and never overwrites it on upgrade,
+  so the customisation lives here rather than in the vendored _sass files.
+  Colours and type come from _sass/color_schemes/v2026.scss; this adds the two
+  things a Sass colour scheme cannot express: the webfont links and the fixed
+  spectrum bar that identifies every page across both sites.
+-->
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;0,900;1,400&family=Hanken+Grotesk:ital,wght@0,300;0,400;0,500;0,700;0,800;1,400&family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --spec-1: #d94141; --spec-2: #f28e2b; --spec-3: #f2c94c; --spec-4: #c4df2a;
+    --spec-5: #7fc87a; --spec-6: #1fb8c2; --spec-7: #39bded; --spec-8: #4f2aae;
+    --c-primary: #0079c1;
+    --c-accent: #4f2aae;
+    --font-heading: 'Asap', system-ui, sans-serif;
+  }
+
+  /* The signature bar, shared with the main site. Sits above just-the-docs'
+     own chrome, which tops out around z-index 100. */
+  body:before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    z-index: 200;
+    background: linear-gradient(
+      90deg,
+      var(--spec-1), var(--spec-2), var(--spec-3), var(--spec-4),
+      var(--spec-5), var(--spec-6), var(--spec-7), var(--spec-8)
+    );
+  }
+
+  /* Headings take Asap, matching the main site; body stays Hanken Grotesk from
+     the colour scheme. */
+  h1, h2, h3, h4, h5, h6,
+  .site-title {
+    font-family: var(--font-heading);
+  }
+
+  h1, h2, h3 {
+    letter-spacing: -0.015em;
+  }
+
+  /* Keyboard focus is the accent purple at 2px, never the browser default and
+     never the blue the focused control is usually already wearing. */
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  summary:focus-visible {
+    outline: 2px solid var(--c-accent);
+    outline-offset: 2px;
+  }
+</style>
